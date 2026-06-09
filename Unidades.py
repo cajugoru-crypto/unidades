@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 # ARCHIVO
 # =====================================================
 
-RUTA = r"C:\Users\NOOSDOMINGUE\Documents\Unidades contenidas\Unidades_Dias.xlsx"
+RUTA = "Unidades_Dias.xlsx"
 
 # =====================================================
 # COLORES
