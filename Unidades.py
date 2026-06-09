@@ -2,7 +2,7 @@ import pandas as pd
 from dash import Dash, html, dcc, Input, Output
 from dash.dash import no_update
 import locale
-locale.setlocale(locale.LC_TIME, 'Spanish_Colombia.1252')
+# locale.setlocale(locale.LC_TIME, 'Spanish_Colombia.1252')
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import plotly.graph_objects as go
